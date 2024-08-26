@@ -79,14 +79,3 @@ If you'd like to contribute to this project, please follow these steps:
     ```bash
     git push origin your-feature-branch
     ```
-
-5. **Open a Pull Request** on GitHub.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or issues, please reach out via [email](mailto:example@example.com) or open an issue on [GitHub Issues](https://github.com/your-username/dentelo-web-app/issues).
-
