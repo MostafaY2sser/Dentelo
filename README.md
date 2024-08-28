@@ -1,4 +1,4 @@
-"# Dentelo" # Dentelo Web App
+"# Dentelo" 
 
 ## Description
 
